@@ -1,0 +1,8 @@
+# Ignore local notes, logs, and prompt files
+instructions.md
+iteration_log.md
+prompts.txt
+workshops&projects.txt
+links.txt
+versions.txt
+generate_qr.py
